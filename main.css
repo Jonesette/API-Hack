@@ -1,0 +1,87 @@
+/* {
+	border: 1px solid red;
+}*/
+
+body { 
+	background: black;
+}
+
+#appName {
+	padding: 10px;
+	text-align: center;
+	text-decoration: underline;
+	font: sans-serif;
+	font-size: 30px;
+	color: white;
+}
+
+.container {
+	background: -webkit-linear-gradient(darkblue, cornflowerblue);
+	background: -moz-linear-gradient(darkblue, cornflowerblue);
+	background: -o-linear-gradient(darkblue, cornflowerblue);
+	background: linear-gradient(darkblue, cornflowerblue); 
+	background-repeat: none;
+	min-height: 400px;
+}
+
+img {
+	position: absolute;
+	margin-top: -70px;
+	margin-left: 5px;
+}
+
+.games {
+	padding-top: 20px;
+	margin-left: 50px;
+}
+
+.gameSelection {
+	display: none;
+}
+
+.listofGames {
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.listofgamesContainer {
+	max-height: 200px;
+	overflow-y: scroll;
+	background-color: bisque;
+	margin: 10px 10px 10px 50px;
+	opacity: .75;
+	border-radius: 10px;
+}
+
+.resultsContainer {
+	margin-top: 10px;
+	width: 49%;
+	float: left;
+	max-height: 320px;
+	overflow-y: scroll;
+}
+
+.gamesContainer {
+	width: 49%;
+	float: left;
+}
+
+#submit {
+	margin-top: 5px;
+	margin-left: 150px;
+}
+
+.results {
+	text-align: center;
+	padding: 10px;
+	position: relative;
+	margin: auto;
+	background-color: bisque;
+	opacity: .75;
+}
+
+.results td {
+	padding: 5px;
+	border: 1px solid black;
+}
+
