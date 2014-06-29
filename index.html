@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head>
 	<meta charset="UTF-8">
-	<title>MLB Score Checker</title>
+	<title>MLB Score Team Info</title>
 	<link rel="stylesheet" href="main.css">
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="app.js"></script>
@@ -10,38 +10,27 @@
 </head>
 <body>
 	<div class="container">
-		<div id="appName">Major League Baseball Score Checker</div>
-		<div class="gamesContainer">
+		<div id="appName">Major League Baseball Team Info</div>
+		<div class="infoContainer">
 			<select id="teams" name="teams" class ="choices">
-				<option id="teamSelection">Select a Team...</option>
-				<option class="team"></option>
+				<option id="teamSelection" disabled="disabled">Select a Team...</option>
 			</select>
-			<div class="listofgamesContainer">
-				<table class="listofGames">
-					<tr>
-						<td><input type='radio' name="gameList"></td>
-						<td><p class="gameName"></p></td>
-					</tr>					
-				</table>
+			<div class="teamInfoContainer">
+				<div id="teamInfo">
+
+				</div>
 			</div>
-			<button id="submit">Get Scores</button>
+			<button id="submit">Log Results</button>
 		</div>
 		<div class="resultsContainer">
-			<table class="results">
+			<table id="results">
 				<tr>
 					<td colspan="4">Results</td>
 				</tr>
 				<tr>
-					<td class="result">Team 1</td>
-					<td class="result">Team 2</td>
-					<td class="result">Score 1</td>
-					<td class="result">Score 2</td>
-				</tr>
-				<tr>
-					<td class="result Team1"></td>
-					<td class="result Team2"></td>
-					<td class="result Score1"></td>
-					<td class="result Score2"></td>
+					<td class="result">Name</td>
+					<td class="result">Location</td>
+					<td class="result">Abbreviation</td>
 				</tr>
 			</table>	
 		</div>
