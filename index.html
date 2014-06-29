@@ -6,36 +6,21 @@
 	<link rel="stylesheet" href="main.css">
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="app.js"></script>
+
 </head>
 <body>
 	<div class="container">
-		<div id="appName">Major League Baseball Score Check</div>
+		<div id="appName">Major League Baseball Score Checker</div>
 		<div class="gamesContainer">
-			<select class="games" name="games" class ="choices">
-				<option class="gameSelection">Select a Game...</option>
-				<option class="completeGames"></option>
+			<select id="teams" name="teams" class ="choices">
+				<option id="teamSelection">Select a Team...</option>
+				<option class="team"></option>
 			</select>
 			<div class="listofgamesContainer">
 				<table class="listofGames">
 					<tr>
-						<td><input type='radio' name="gameList" value="Complete Game One"></td>
-						<td><p>Complete Game One</p></td>
-					</tr>
-					<tr>
-						<td><input type='radio' name="gameList" value="Complete Game Two"></td>
-						<td><p>Complete Game Two</p></td>
-					</tr>
-					<tr>
-						<td><input type='radio' name="gameList" value="Complete Game Three"></td>
-						<td><p>Complete Game Three</p></td>
-					</tr>	
-					<tr>
-						<td><input type='radio' name="gameList" value="Complete Game Three"></td>
-						<td><p>Complete Game Three</p></td>
-					</tr>	
-					<tr>
-						<td><input type='radio' name="gameList" value="Complete Game Three"></td>
-						<td><p>Complete Game Three</p></td>
+						<td><input type='radio' name="gameList"></td>
+						<td><p class="gameName"></p></td>
 					</tr>					
 				</table>
 			</div>
@@ -53,52 +38,10 @@
 					<td class="result">Score 2</td>
 				</tr>
 				<tr>
-					<td class="result">Yankees</td>
-					<td class="result">Red Socks</td>
-					<td class="result">9</td>
-					<td class="result">10</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
-				</tr>
-				<tr>
-					<td class="result">xxxxxx</td>
-					<td class="result">xxxxxx</td>
-					<td class="result">10</td>
-					<td class="result">18</td>
+					<td class="result Team1"></td>
+					<td class="result Team2"></td>
+					<td class="result Score1"></td>
+					<td class="result Score2"></td>
 				</tr>
 			</table>	
 		</div>
@@ -106,3 +49,5 @@
 	<img src="images/MLB-Logo.jpg">
 </body>
 </html>
+
+<img src="">
