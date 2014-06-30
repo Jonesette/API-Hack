@@ -20,7 +20,7 @@ body {
 	background: -moz-linear-gradient(darkblue, cornflowerblue);
 	background: -o-linear-gradient(darkblue, cornflowerblue);
 	background: linear-gradient(darkblue, cornflowerblue); 
-	background-repeat: none;
+	background-repeat: no-repeat;
 	min-height: 400px;
 }
 
