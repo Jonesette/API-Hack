@@ -1,0 +1,40 @@
+Return-path: <support@sportsdatallc.com>
+Envelope-to: sjones@jjaviation.com
+Delivery-date: Wed, 25 Jun 2014 19:35:11 -0400
+Received: from [10.115.3.4] (helo=bosimpinc04.eigbox.net)
+	by bosmailscan08.eigbox.net with esmtp (Exim)
+	id 1Wzwic-00064G-E0
+	for sjones@jjaviation.com; Wed, 25 Jun 2014 19:35:10 -0400
+Received: from outmail139051.authsmtp.net ([62.13.139.51])
+	by bosimpinc04.eigbox.net with NO UCE
+	id Jnb91o03X16jUbA01nb9h6; Wed, 25 Jun 2014 19:35:10 -0400
+X-EN-OrigIP: 62.13.139.51
+X-EN-IMPSID: Jnb91o03X16jUbA01nb9h6
+Received: from mail-c235.authsmtp.com (mail-c235.authsmtp.com [62.13.128.235])
+	by punt15.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5PNZ9Xl072885
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 00:35:09 +0100 (BST)
+Received: from prod-portal-worker-us-east-1b-13.mashery.com (ec2-54-221-74-219.compute-1.amazonaws.com [54.221.74.219])
+	(authenticated bits=0)
+	by mail.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5PNZ5KJ078375
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 00:35:06 +0100 (BST)
+Date: Thu, 26 Jun 2014 00:35:06 +0100 (BST)
+Message-Id: <201406252335.s5PNZ5KJ078375@mail.authsmtp.com>
+From: "SportsData API Registrations" <support@sportsdatallc.com>
+To: <sjones@jjaviation.com>
+Subject: Sports Data API Portal Account Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Server-Quench: 56c642c6-fcc1-11e3-b396-002590a15da7
+X-AuthReport-Spam: If SPAM / abuse - report it at: http://www.authsmtp.com/abuse
+X-AuthRoute: OCdxaQsXBFZOURwC DTkYJDRYTh85PRFF HRYHKQAcK10MQx9T NUBXNXJRMlQCRFhF WjlVRQcLDRNzX3wP LlRObwVcZlpOXw9p VUJJRBxXEBtqAx0f ARoAUBh7aAdDZ34+ JkMCIBpeJz56ck5+ RUsaEWoBK2JmO2Yb UhNealUHIwJXfx4Q aU0tV3oLfGUHZH9p RwZqYjw4YiNkMCNP XhpFAVsOSA4iJh90 fxcYATwrVWQOTCIu KQBuAVkaEkcLN0wu MFwnMf9/
+X-Authentic-SMTP: 61633239333237.1023:706
+X-AuthFastPath: 0 (Was 255)
+X-AuthSMTP-Origin: 54.221.74.219/25
+X-AuthVirus-Status: No virus detected - but ensure you scan with your own anti-virus system.
+
+Please click on the following link to confirm your new Sports Data API Por=
+tal account.
+
+http://developer.sportsdatallc.com/member/confirm/Jonesette/c256ed9f761d4c=
+3eee809997fba6c2d7

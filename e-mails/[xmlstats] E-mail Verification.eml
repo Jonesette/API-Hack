@@ -1,0 +1,52 @@
+Return-path: <xmlstats-api@erikberg.com>
+Envelope-to: sjones@jjaviation.com
+Delivery-date: Wed, 25 Jun 2014 20:55:05 -0400
+Received: from [10.115.3.5] (helo=bosimpinc05.eigbox.net)
+	by bosmailscan12.eigbox.net with esmtp (Exim)
+	id 1Wzxxx-0005pP-SR
+	for sjones@jjaviation.com; Wed, 25 Jun 2014 20:55:05 -0400
+Received: from fore.erikberg.com ([108.238.211.156])
+	by bosimpinc05.eigbox.net with NO UCE
+	id Jov41o00t3P1An801ov5rX; Wed, 25 Jun 2014 20:55:05 -0400
+X-EN-OrigIP: 108.238.211.156
+X-EN-IMPSID: Jov41o00t3P1An801ov5rX
+Received: from forerun.erikberg.com (forerun.erikberg.com [54.235.184.170])
+	(authenticated bits=0)
+	by fore.erikberg.com (8.14.4/8.14.4/) with ESMTP id s5Q0suIQ014828
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NO)
+	for <sjones@jjaviation.com>; Wed, 25 Jun 2014 17:55:02 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=erikberg.com; s=s1024;
+	t=1403744102; bh=AbJ6yAB9vV2BAf9T+Giet5xUY+lv7Q1lKNxsTRu8U9E=;
+	h=Date:From:To:Subject;
+	b=aQgK5Bp6E6ZWSZVuPFxwAlurnQyg7PhACpF12kmZBNrHyT5tVV7qyJLOMUSpuVpEc
+	 53VLT39yAeWR6/AH/FOepj7QnbWfVHEJ/T1ykJvGhFK7e056yassRVu+8UQL90bHSJ
+	 grP4OmgKGJGXOIcptefjNOd6x0jAfnT53vY2sUT8=
+Date: Wed, 25 Jun 2014 20:54:56 -0400 (EDT)
+From: xmlstats-api@erikberg.com
+To: sjones@jjaviation.com
+Message-ID: <1087572151.13.1403744096326.JavaMail.xmlstats-api@erikberg.com>
+Subject: [xmlstats] E-mail Verification
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8; format=flowed;
+Content-Transfer-Encoding: 7bit
+X-Spam-Score: 0.989 () BAYES_40,MISSING_FROM,T_RP_MATCHES_RCVD
+
+Hello Sarah Jones,
+
+Thank you for registering an xmlstats account.
+
+Click the link below to verify the e-mail address associated with 
+your account.
+
+https://erikberg.com/verify?ev=HNDSDRTAtwCx2KRo0f0nZcvQRu4znlg484PKdct01EA%3D
+
+Once verified, you will receive an API access token to use in 
+your application.
+
+
+https://erikberg.com/api
+-----------------------------------------------------
+If you did not register an xmlstats account and are receiving 
+this message in error, the account will deactivate 
+automatically. Sorry for any inconvenience.
+

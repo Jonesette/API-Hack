@@ -1,0 +1,42 @@
+Return-path: <xmlstats@erikberg.com>
+Envelope-to: sjones@jjaviation.com
+Delivery-date: Wed, 25 Jun 2014 20:53:38 -0400
+Received: from [10.115.3.5] (helo=bosimpinc05.eigbox.net)
+	by bosmailscan07.eigbox.net with esmtp (Exim)
+	id 1WzxwY-00064Z-KR
+	for sjones@jjaviation.com; Wed, 25 Jun 2014 20:53:38 -0400
+Received: from fore.erikberg.com ([108.238.211.156])
+	by bosimpinc05.eigbox.net with NO UCE
+	id Jotc1o01L3P1An801otdgh; Wed, 25 Jun 2014 20:53:38 -0400
+X-EN-OrigIP: 108.238.211.156
+X-EN-IMPSID: Jotc1o01L3P1An801otdgh
+Received: from localhost (localhost [127.0.0.1])
+	by fore.erikberg.com (8.14.4/8.14.4/) with ESMTP id s5Q0rVdu014808
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <sjones@jjaviation.com>; Wed, 25 Jun 2014 17:53:35 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=erikberg.com; s=s1024;
+	t=1403744015; bh=FEatSvb1oR6Pg0wYxtskEwgjDNZsYBVwSp1HpZYtAZg=;
+	h=Date:From:To:Subject;
+	b=CRD4De+yK/bj1En/hpbfF+Aa012aWtmKT2lVExXykdO+MZOnVOcvcwjDjDHLmoq/h
+	 nFMeHvtpDh6iwfC3igmKTsbCfKpxsqKNlBTTsJ5o99PYgPlhrw2KKWmjFxELAMDlkM
+	 aUbqwtiXlL/2Ww1ODLz7yCcWRdQ2aSJm/FiH/NOg=
+Date: Wed, 25 Jun 2014 17:53:31 -0700 (PDT)
+From: xmlstats <xmlstats@erikberg.com>
+To: sjones@jjaviation.com
+Subject: xmlstats signup
+Message-ID: <alpine.LRH.2.00.1406251752490.14763@fore.erikberg.com>
+User-Agent: Alpine 2.00 (LRH 1167 2008-08-23)
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII; format=flowed
+X-Spam-Score: -1.5 () ALL_TRUSTED,BAYES_00,MISSING_FROM
+
+Hi,
+
+Thanks for your interest in the xmlstats API. Please let me know if you have 
+problems registering. You can sign up with a Twitter account or using your 
+e-mail and password.
+
+https://erikberg.com/signup
+
+Your invitation code is:
+7ab9c02ed4d7b6dccd3bbdc586c7495d

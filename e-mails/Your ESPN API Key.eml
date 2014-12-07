@@ -1,0 +1,51 @@
+Return-path: <espn-api-noreply@mashery.com>
+Envelope-to: sjones@jjaviation.com
+Delivery-date: Wed, 25 Jun 2014 20:13:23 -0400
+Received: from [10.115.3.6] (helo=bosimpinc06.eigbox.net)
+	by bosmailscan09.eigbox.net with esmtp (Exim)
+	id 1WzxJb-0005XW-9H
+	for sjones@jjaviation.com; Wed, 25 Jun 2014 20:13:23 -0400
+Received: from outmail139051.authsmtp.net ([62.13.139.51])
+	by bosimpinc06.eigbox.net with NO UCE
+	id JoDN1o02K16jUbA01oDNvi; Wed, 25 Jun 2014 20:13:23 -0400
+X-EN-OrigIP: 62.13.139.51
+X-EN-IMPSID: JoDN1o02K16jUbA01oDNvi
+Received: from punt17.authsmtp.com (punt17.authsmtp.com [62.13.128.224])
+	by punt15.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5Q0DMB1058978
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 01:13:22 +0100 (BST)
+Received: from mail-c237.authsmtp.com (mail-c237.authsmtp.com [62.13.128.237])
+	by punt17.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5Q0DM8B014012
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 01:13:22 +0100 (BST)
+Received: from prod-portal-worker-us-east-1c-18.mashery.com (ec2-54-242-192-212.compute-1.amazonaws.com [54.242.192.212])
+	(authenticated bits=0)
+	by mail.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5Q0DKcL091522
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 01:13:21 +0100 (BST)
+Date: Thu, 26 Jun 2014 01:13:21 +0100 (BST)
+Message-Id: <201406260013.s5Q0DKcL091522@mail.authsmtp.com>
+From: "ESPN Developer Center" <espn-api-noreply@mashery.com>
+To: <sjones@jjaviation.com>
+Subject: Your ESPN API Key
+Mime-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Server-Quench: aede3987-fcc6-11e3-9f74-002590a135d3
+X-AuthReport-Spam: If SPAM / abuse - report it at: http://www.authsmtp.com/abuse
+X-AuthRoute: OCdxaQsXBFZYVxwc TyocDWpGTh8oPhld KRoKNgtXOktPXgNU JF1YKVxeK3UeR1hH WjdPAgsKTg4uBC13 bRUrKFtCYEpPWxVq UUJIQVhQFUttBQID AhwAUxBwaQdHemFy YFliEDNePUQODhUB QkdVEG8EK2BnbC5O BRQNdApcdx4cLUxD d1F+AXAQaDMAYmdg R1Vubmg4ZG4CJH9D cwYQNxo/en4tVhcE ZlghECRH
+X-Authentic-SMTP: 61633239333237.1024:706
+X-AuthFastPath: 0 (Was 255)
+X-AuthVirus-Status: No virus detected - but ensure you scan with your own anti-virus system.
+
+You are now registered to use the ESPN API.
+
+Here is your API Key:
+6xczn8m4pu3se2vj62r9jace=0AShared Secret: fsx63euE4zeSjXGQUEVtkSWJ
+
+You have been granted Public status which will allow you access to our Hea=
+dlines API, Now API, Athletes API, and Teams API.  If you are a Partner or=
+ ESPN employee, your key will be upgraded by an ESPN moderator to gain acc=
+ess to APIs available to those consumer tiers.
+
+ Documentation for all of our APIs can be viewed at http://developer.espn.=
+com/. 
+
+Happy coding!

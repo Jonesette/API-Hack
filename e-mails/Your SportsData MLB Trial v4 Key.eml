@@ -1,0 +1,43 @@
+Return-path: <sales@sportsdatallc.com>
+Envelope-to: sjones@jjaviation.com
+Delivery-date: Wed, 25 Jun 2014 19:40:16 -0400
+Received: from [10.115.3.5] (helo=bosimpinc05.eigbox.net)
+	by bosmailscan09.eigbox.net with esmtp (Exim)
+	id 1WzwnX-0006a2-VK
+	for sjones@jjaviation.com; Wed, 25 Jun 2014 19:40:15 -0400
+Received: from outmail139051.authsmtp.net ([62.13.139.51])
+	by bosimpinc05.eigbox.net with NO UCE
+	id JngE1o00g16jUbA01ngFRn; Wed, 25 Jun 2014 19:40:15 -0400
+X-EN-OrigIP: 62.13.139.51
+X-EN-IMPSID: JngE1o00g16jUbA01ngFRn
+Received: from mail-c235.authsmtp.com (mail-c235.authsmtp.com [62.13.128.235])
+	by punt15.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5PNeE0W086111
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 00:40:14 +0100 (BST)
+Received: from prod-portal-worker-us-east-1b-15.mashery.com (ec2-50-17-84-12.compute-1.amazonaws.com [50.17.84.12])
+	(authenticated bits=0)
+	by mail.authsmtp.com (8.14.2/8.14.2/) with ESMTP id s5PNe8dR095891
+	for <sjones@jjaviation.com>; Thu, 26 Jun 2014 00:40:08 +0100 (BST)
+Date: Thu, 26 Jun 2014 00:40:08 +0100 (BST)
+Message-Id: <201406252340.s5PNe8dR095891@mail.authsmtp.com>
+From: <sales@sportsdatallc.com>
+To: <sjones@jjaviation.com>
+Subject: Your SportsData MLB Trial v4 Key
+Mime-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Server-Quench: 0b26e1ba-fcc2-11e3-b396-002590a15da7
+X-AuthReport-Spam: If SPAM / abuse - report it at: http://www.authsmtp.com/abuse
+X-AuthRoute: OCdxaQsXBFZORQAX EQsfFChaVR4pLwFF BRsIawBdJUwSVwNX P11yLFhaLlwVWVBe XXhYBAkaUltuIyYr dAhRbAFNYkpEWwVg UEEHR1JMFQJ2CRgf BxwBUBxtd0sFfR4O ME42PHBSWUxzdAh1 QUkaFT8EYzJhOjEC BhMLdR5VcVZJY01G Y1ZiVHMPZGwHN3tl EwZsKQE2IC8XEzxS WB0WAVsOSA4uOhR0 ewoDFDFnAxFNZCgi RwAA
+X-Authentic-SMTP: 61633239333237.1023:706
+X-AuthFastPath: 0 (Was 255)
+X-AuthSMTP-Origin: 50.17.84.12/25
+X-AuthVirus-Status: No virus detected - but ensure you scan with your own anti-virus system.
+
+Welcome Jonesette,=C2=A0=0A=0AHere is the trial key you registered for:=0A=
+=0AAPI: MLB Trial v4=0AAPI Key: API KEY: amq5chmcv9rkr96gcxzhfs8j=0AStatus=
+: active=0A=0A=0AAPI documentation and I/O Docs are located on our develop=
+er portal at http://developer.sportsdatallc.com.=0AFor technical support i=
+ssues, contact Support at support@sportsdatallc.com.=0A=0AFollow our Twitt=
+er account @SportsDataAPI for product and company news. =0A=0AInterested i=
+n licensing a data plan? Contact Sales at sales@sportsdatallc.com. =0A=0AW=
+e look forward to working with you!=0A=0A- Team SportsData

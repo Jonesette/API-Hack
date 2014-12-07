@@ -1,0 +1,65 @@
+Return-path: <xmlstats-api@erikberg.com>
+Envelope-to: sjones@jjaviation.com
+Delivery-date: Wed, 25 Jun 2014 20:55:40 -0400
+Received: from [10.115.3.4] (helo=bosimpinc04.eigbox.net)
+	by bosmailscan06.eigbox.net with esmtp (Exim)
+	id 1WzxyW-0004G6-JP
+	for sjones@jjaviation.com; Wed, 25 Jun 2014 20:55:40 -0400
+Received: from fore.erikberg.com ([108.238.211.156])
+	by bosimpinc04.eigbox.net with NO UCE
+	id Jovf1o0183P1An801ovgPy; Wed, 25 Jun 2014 20:55:40 -0400
+X-EN-OrigIP: 108.238.211.156
+X-EN-IMPSID: Jovf1o0183P1An801ovgPy
+Received: from forerun.erikberg.com (forerun.erikberg.com [54.235.184.170])
+	(authenticated bits=0)
+	by fore.erikberg.com (8.14.4/8.14.4/) with ESMTP id s5Q0tW6t014834
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NO)
+	for <sjones@jjaviation.com>; Wed, 25 Jun 2014 17:55:38 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=erikberg.com; s=s1024;
+	t=1403744138; bh=e0bEydj2v3oVwC3uMp9nRbRNEJmHMukA1x0uD0kCiuc=;
+	h=Date:From:To:Subject;
+	b=inxGlaiFUgyjOJFX/XdRPDPkSE/0EDpyjSRz9hv84ETZSLrrvsi/pA7SD2nvPymvB
+	 CzaPjb1k/Ypvf/ggmh0COm6e+KryYNGhl4QHlsNl2hTfCKJ8oEMG+35sfOdLQ+U4Ed
+	 qlVj0XnBb9Vsh4tmhGgk5WjJpD0W+vS6BAbn4tPA=
+Date: Wed, 25 Jun 2014 20:55:32 -0400 (EDT)
+From: xmlstats-api@erikberg.com
+To: sjones@jjaviation.com
+Message-ID: <76696280.14.1403744132518.JavaMail.xmlstats-api@erikberg.com>
+Subject: [xmlstats] Welcome to xmlstats
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8; format=flowed;
+Content-Transfer-Encoding: 7bit
+X-Spam-Score: 0.989 () BAYES_20,MISSING_FROM,T_RP_MATCHES_RCVD
+
+Hello Sarah Jones,
+
+Congrats, the sign up process is complete!
+
+Your Account Information
+Account Type  : e-mail and password
+E-mail Address: sjones@jjaviation.com
+
+Use the preceding e-mail address and the password you created when 
+you signed up to access your account in the future.
+
+Please read the API documentation at https://erikberg.com/api and 
+follow the rules (i.e., set a good user agent string with your 
+contact information and respect the rate limits). Try the examples 
+https://erikberg.com/api/examples and consider contributing 
+example code for a language that is not presently listed (note: 
+example code should produce the same output as the existing ones).
+
+For API improvements and bugs, use https://erikberg.com/api/issues 
+to create new issues. For support, questions, and general feedback 
+about the API, e-mail xmlstats@erikberg.com. Your feedback is 
+important. One of the goals of the API is that it is easy to 
+understand and simple to use. If your experience is different, 
+please report the problem so it can be resolved.
+
+
+Thanks,
+Erik Berg
+
+https://erikberg.com/api
+-----------------------------------------------------
+
